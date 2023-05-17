@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gheeyang.github.io/about/</loc>
+  </url><url>
+    <loc>https://gheeyang.github.io/categories/</loc>
+  </url><url>
+    <loc>https://gheeyang.github.io/</loc>
+  </url><url>
     <loc>https://gheeyang.github.io/posts/</loc>
-    <lastmod>2023-05-15T19:27:30+08:00</lastmod>
   </url><url>
-    <loc>https://gheeyang.github.io/posts/categories/</loc>
+    <loc>https://gheeyang.github.io/posts/gygreendebt/</loc>
   </url><url>
-    <loc>https://gheeyang.github.io/posts/</loc>
+    <loc>https://gheeyang.github.io/tags/</loc>
   </url><url>
-    <loc>https://gheeyang.github.io/posts/tags/</loc>
+    <loc>https://gheeyang.github.io/posts/gylegible/</loc>
+  </url><url>
+    <loc>https://gheeyang.github.io/posts/gysurveil/</loc>
   </url>
 </urlset>

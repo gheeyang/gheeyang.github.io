@@ -2,18 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lim Ghee Yang</title>
-    <link>https://gheeyang.github.io/posts/</link>
+    <link>https://gheeyang.github.io/</link>
     <description>Recent content on Lim Ghee Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Lim Ghee Yang</copyright><atom:link href="https://gheeyang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Lim Ghee Yang</copyright><atom:link href="https://gheeyang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://gheeyang.github.io/posts/</link>
-      <pubDate>Mon, 15 May 2023 19:27:30 +0800</pubDate>
+      <title>About Me</title>
+      <link>https://gheeyang.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gheeyang.github.io/posts/</guid>
-      <description></description>
+      <guid>https://gheeyang.github.io/about/</guid>
+      <description>Hello, my name is Lim Ghee Yang and I am a:
+Final-year student of Economics and Politics📚📈 Media and Communication diploma holder🎥🎙 My interests are:
+Political Economy
+Development in Southeast Asia China&amp;rsquo;s state-market puzzle International green financing mechanisms Political Philosophy
+Capitalism and its future Acceleration vs. Degrowth Disciplinary-Control-Achievement societies Ideology by way of Žižek Media &amp;amp; Technology
+Planetary sapience &amp;amp; Cosmotechnics Surveillance The Spectacle Reach me at gheeyang@protonmail.com if you think the above topics are interesting or you are looking for someone to hire.</description>
+    </item>
+    
+    <item>
+      <title>Solving For Stability In The Polycrisis</title>
+      <link>https://gheeyang.github.io/posts/gygreendebt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gheeyang.github.io/posts/gygreendebt/</guid>
+      <description>An Unlikely Consensus
+Emerging from the fog of uncertainty, world leaders had come to a small — but important — consensus at Conference of the Parties (COP) 27 of the United Nations Climate Change Conference (UNFCCC). Nothing short of a breakthrough, COP27 closed to countries agreeing to a Loss and Damage (L&amp;amp;D) fund for countries ruined by climate catastrophes.
+The host this year, Egypt, is no stranger to the stupendous vexations of weather patterns.</description>
+    </item>
+    
+    <item>
+      <title>The Violence of Legibility</title>
+      <link>https://gheeyang.github.io/posts/gylegible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gheeyang.github.io/posts/gylegible/</guid>
+      <description>Legibility as Violence
+Statistics, in its infancy, was seen by Enlightenment thinkers to be the usurper of mysticism and religion. In The Game of Probability, Literary Scholar Rüdiger Campe writes that Voltaire regarded statistics as the base of his disdain of narrativist history: &amp;ldquo;The stories of ancient history accordingly offer an example that borders on mythology for Voltaire&amp;rdquo;. The Rousseauan volonté générale was also expressed with statistical ideas, according to philosopher Han Byung-Chul.</description>
+    </item>
+    
+    <item>
+      <title>We Need More Surveillance</title>
+      <link>https://gheeyang.github.io/posts/gysurveil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gheeyang.github.io/posts/gysurveil/</guid>
+      <description>Anatomy of our planetary skin
+The skin of our planetary body is covered by sensors, actuators, wires, radars, cameras, turbines, transistors, and circuits that power modernity. A future without these technologies is unthinkable. On an individual level, the luxuries we enjoy would not exist without them. Accessing the rest of humanity through the black brick we compulsively turn on means relying on the constant whirring of these connective technologies.</description>
     </item>
     
   </channel>
